@@ -1,0 +1,21 @@
+{
+    "main": {
+        "name": "Fathul Hidayat",
+        "image":"profilepic.jpg",
+        "description": "I am a fullstack developer",
+        "github": "https://github.com/Kirara02",
+        "project": "https://github.com/Kirara02",
+        "bio": "This is my biography",
+        "contactmessage":"Hello, here I am",
+        "email": "fahtul.singaparna@gmail.com",
+        "phone": "+62 81313320710",
+        "address":{
+            "street":"Ds. Sirnaraja, Kec. Cigalontang",
+            "city":"Tasikmalaya",
+            "state":"West Java",
+            "zip": "46463"
+        },
+        "website": "https://github.com/Kirara02",
+        "resumedownload":"https://github.com/Kirara02"
+    }
+}
