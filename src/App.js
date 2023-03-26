@@ -5,6 +5,8 @@ import { Component } from 'react';
 import Header from './components/Header';
 import About from './components/About';
 import Particle from './components/Particle';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 class App extends Component {
   
@@ -46,6 +48,8 @@ class App extends Component {
         <Particle/>
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
+        <Contact data={this.state.resumeData.main} />
+        <Resume data={this.state.resumeData.resume} />
 
       </div>
     )
