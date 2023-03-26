@@ -6,7 +6,7 @@
         "github": "https://github.com/Kirara02",
         "project": "https://github.com/Kirara02",
         "bio": "This is my biography",
-        "contactmessage":"Hello, here I am",
+        "contactmessage":"Here is where ou should write your message to have then get in contact with you.",
         "email": "fahtul.singaparna@gmail.com",
         "phone": "+62 81313320710",
         "address":{
@@ -16,6 +16,84 @@
             "zip": "46463"
         },
         "website": "https://github.com/Kirara02",
-        "resumedownload":"https://github.com/Kirara02"
+        "resumedownload":"https://github.com/Kirara02",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://github.com/mutiarahmatun",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/mutia.rahmatun",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/mutiarahmatun",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "SMK YPC Tasikmalaya",
+                "degree": "Bachelor degree of Software Engineering",
+                "graduated": "May 2023",
+                "description" : "I am joining LKS competition and won third place at the provincial level" 
+            },
+            {
+                "school": "SMPN 2 Cigalontang",
+                "degree": "Junior high school student",
+                "graduated": "Juni 2020",
+                "description": "I am joining MIPA competition"
+            }
+        ],
+        "work": [
+            {
+                "company" : "Prahwa.io",
+                "title" : "Mobile Developer",
+                "years": "August 2022 - October 2022",
+                "description": "Creating a mobile application and maintenance"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Java",
+                "level": "70%"
+            },
+            {
+                "name": "Dart",
+                "level": "85%"
+            },
+            {
+                "name": "Visual Basic",
+                "level": "85%"
+            },
+            {
+                "name": "PHP",
+                "level": "95%"
+            },
+            {
+                "name": "C#",
+                "level": "60%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "70%"
+            }
+        ]
     }
 }
