@@ -54,7 +54,9 @@ header .banner {
    text-align: center;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text { 
+   width: 100%; 
+}
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
@@ -83,6 +85,7 @@ header .social {
    margin: 24px 0;
    padding: 0;
    font-size: 30px;
+   justify-content: center;
 }
 header .social li {
    display: inline-block;
@@ -1019,7 +1022,9 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .project-btn{
    background-color: #1abc9c !important;
+   text-align: center;
 }
 .github-btn{
    background-color: #34495e !important;
+   text-align: center;
 }
