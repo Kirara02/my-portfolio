@@ -1,133 +1,129 @@
 {
-    "main": {
-        "name": "Fathul Hidayat",
-        "image":"saya.jpeg",
-        "description": "I am a fullstack developer",
-        "github": "https://github.com/Kirara02",
-        "project": "https://github.com/Kirara02",
-        "bio": "This is my biography",
-        "contactmessage":"Here is where ou should write your message to have then get in contact with you.",
-        "email": "fahtul.singaparna@gmail.com",
-        "phone": "+62 81313320710",
-        "address":{
-            "street":"Ds. Sirnaraja, Kec. Cigalontang",
-            "city":"Tasikmalaya",
-            "state":"West Java",
-            "zip": "46463"
-        },
-        "website": "https://github.com/Kirara02",
-        "resumedownload":"https://drive.google.com/file/d/1aSCfy7vIdPz88SxhIJoxsOFJmnIhdnwd/view?usp=sharing",
-        "social":[
-          {
-            "name": "facebook",
-            "url": "https://web.facebook.com/kirara.bernstein.04/",
-            "className": "fa fa-facebook"
-          },
-          {
-            "name":"twitter",
-            "url":"https://twitter.com/AzunyanNee",
-            "className":"fa fa-twitter"
-          },
-          {
-            "name":"linkedin",
-            "url":"https://www.linkedin.com/in/kirara-bernstein-157320252/",
-            "className":"fa fa-linkedin"
-          },
-          {
-            "name":"instagram",
-            "url":"https://www.instagram.com/kirara_v02/",
-            "className":"fa fa-instagram"
-          },
-          {
-            "name":"github",
-            "url":"https://github.com/Kirara02",
-            "className":"fa fa-github"
-          }
-        ]
+  "main": {
+    "name": "Fathul Hidayat",
+    "image": "saya.jpeg",
+    "description": "I am a fullstack developer",
+    "github": "https://github.com/Kirara02",
+    "project": "https://github.com/Kirara02",
+    "bio": "This is my biography",
+    "contactmessage": "Here is where ou should write your message to have then get in contact with you.",
+    "email": "fahtul.singaparna@gmail.com",
+    "phone": "+62 81313320710",
+    "address": {
+      "street": "Ds. Sirnaraja, Kec. Cigalontang",
+      "city": "Tasikmalaya",
+      "state": "West Java",
+      "zip": "46463"
     },
-    "resume" : {
-        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-        "education" : [
-            {
-                "school": "SMK YPC Tasikmalaya",
-                "degree": "Bachelor degree of Software Engineering",
-                "graduated": "May 2023",
-                "description" : "I am joining LKS competition and won third place at the provincial level" 
-            },
-            {
-                "school": "SMPN 2 Cigalontang",
-                "degree": "Junior high school student",
-                "graduated": "Juni 2020",
-                "description": "I am joining MIPA competition"
-            }
-        ],
-        "work": [
-            {
-                "company" : "Prahwa.io",
-                "title" : "Mobile Developer",
-                "years": "August 2022 - October 2022",
-                "description": "Creating a mobile application and maintenance"
-            }
-        ],
-        "skills": [
-            {
-                "name" : "Java",
-                "level": "70%"
-            },
-            {
-                "name": "Dart",
-                "level": "85%"
-            },
-            {
-                "name": "Visual Basic",
-                "level": "85%"
-            },
-            {
-                "name": "PHP",
-                "level": "95%"
-            },
-            {
-                "name": "C#",
-                "level": "60%"
-            },
-            {
-                "name": "JavaScript",
-                "level": "70%"
-            }
-        ]
-    },
-    "portfolio":{
-        "projects": [
-            {
-                "title": "BankSHA",
-                "category": "E-Wallet mobile application",
-                "image": "01.jpg",
-                "url": "https://github.com/Kirara02/Bank_SHA"
-            },
-            {
-                "title":"dr. Engine",
-                "category":"Aplikasi service kendaraan online",
-                "image":"02.jpg",
-                "url":"https://github.com/Kirara02/Dr_Engine"
-            },
-            {
-                "title":"MyAlquran",
-                "category":"Aplikasi mobile alquran online",
-                "image":"03.jpg",
-                "url":"https://github.com/Kirara02/MyALquran"
-            },
-            {
-                "title":"MyMusic",
-                "category":"Aplikasi mobile pemutar music",
-                "image":"04.jpg",
-                "url":"https://github.com/Kirara02/MyMusicttp://www.timbakerdev.com"
-            },
-            {
-                "title":"MyApotek",
-                "category":"Aplikasi desktop untuk apotek support generate pdf",
-                "image":"05.jpg",
-                "url":"https://github.com/Kirara02/MyMusic"
-            }           
-        ]
-    }
+    "website": "https://github.com/Kirara02",
+    "resumedownload": "https://drive.google.com/file/d/1aSCfy7vIdPz88SxhIJoxsOFJmnIhdnwd/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/kirara.bernstein.04/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AzunyanNee",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kirara-bernstein-157320252/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kirara_v02/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Kirara02",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "SMK YPC Tasikmalaya",
+        "degree": "Bachelor degree of Software Engineering",
+        "graduated": "May 2023",
+        "description": "I am joining LKS competition and won third place at the provincial level"
+      },
+      {
+        "school": "SMPN 2 Cigalontang",
+        "degree": "Junior high school student",
+        "graduated": "Juni 2020",
+        "description": "I am joining MIPA competition"
+      }
+    ],
+    "work": [
+      {
+        "company": "Prahwa.io",
+        "title": "Mobile Developer",
+        "years": "August 2022 - October 2022",
+        "description": "Creating a mobile application and maintenance"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Dart",
+        "level": "85%"
+      },
+      {
+        "name": "Visual Basic",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BankSHA",
+        "category": "E-Wallet mobile application",
+        "image": "01.jpg",
+        "url": "https://github.com/Kirara02/Bank_SHA"
+      },
+      {
+        "title": "dr. Engine",
+        "category": "Aplikasi service kendaraan online",
+        "image": "02.jpg",
+        "url": "https://github.com/Kirara02/Dr_Engine"
+      },
+      {
+        "title": "MyAlquran",
+        "category": "Aplikasi mobile alquran online",
+        "image": "03.jpg",
+        "url": "https://github.com/Kirara02/MyALquran"
+      },
+      {
+        "title": "MyMusic",
+        "category": "Aplikasi mobile pemutar music",
+        "image": "04.jpg",
+        "url": "https://github.com/Kirara02/MyMusicttp://www.timbakerdev.com"
+      },
+      {
+        "title": "MyApotek",
+        "category": "Aplikasi desktop untuk apotek support generate pdf",
+        "image": "05.jpg",
+        "url": "https://github.com/Kirara02/MyMusic"
+      }
+    ]
+  }
 }
