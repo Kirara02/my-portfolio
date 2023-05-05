@@ -157,14 +157,21 @@ function Particle() {
                             enable: true,
                         },
                         move: {
-                            direction: "none",
+                            attract: {
+                            rotate: {
+                                x: 800,
+                                y: 800,
+                            },
+                            },
                             enable: true,
                             outModes: {
-                                default: "bounce",
+                            bottom: "out",
+                            left: "out",
+                            right: "out",
+                            top: "out",
                             },
-                            random: false,
-                            speed: 2,
-                            straight: false,
+                            random: true,
+                            speed: 3,
                         },
                         number: {
                             density: {
